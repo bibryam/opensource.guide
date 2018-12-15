@@ -116,7 +116,7 @@ Finally, sometimes open source projects put bounties on issues that you might co
 
 ## Finding funding for your project
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work. Here is a list of [open source funding platforms](http://oss.fund/) maintained by @bibryam focused specifically around funding and sustaining open source software.
 
 Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
 
